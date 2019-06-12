@@ -1,0 +1,33 @@
+
+body{
+    background-color:rgba(118,96,138,0.5);
+    border: solid 6px black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+#lemot{
+    width: 300px;
+    height: 600px;
+    margin-left: 40%;
+    margin-right: 20%;
+    margin-top: 15%;
+}
+
+#gras{
+    font-style: bold;
+    color: purple;
+    font-size: 80px;
+
+}
+
+#maj{
+    text-transform: uppercase; 
+    font-size: 50px;
+}
+
+#min{
+    text-transform: lowercase;
+    font-size: 30px;
+}
